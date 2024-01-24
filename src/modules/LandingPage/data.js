@@ -7,27 +7,128 @@ import Avatar2 from "../../images/avatar2.png";
 import Avatar3 from "../../images/avatar3.png";
 import RatingAvatar from "../../images/ratingAvatar.png";
 
-export const heroSectionData = {
-  id: 1,
-  tag: "Impact modeling",
-  title:
-    "Industry leaders are those that are doing more than reduce their own emissions",
-  name: "Amanda Benneth",
-  designation: "Director of Sustainable Impact, Autodesk Foundation",
-  image: avatar,
-  imageAlt: "Amanda Benneth",
-  review: `“Industry leaders are those that are doing more than
+export const heroSectionSlider = [
+  {
+    id: 1,
+    tag: "Impact modeling",
+    title:
+      "Industry leaders are those that are doing more than reduce their own emissions",
+    name: "Amanda Benneth",
+    designation: "Director of Sustainable Impact, Autodesk Foundation",
+    image: avatar,
+    imageAlt: "Amanda Benneth",
+    review: `“Industry leaders are those that are doing more than
         reduce their own emissions, they are driving their
         customers and sectors towards net-zero. Rho Impact
         quantifies the impact of new climate technologies,
         existing products and services, and of investments so that
         investors and companies can make decisions that accelerate
         the transition to a net-zero economy.”`,
-  statA: "2600+",
-  statB: "300+",
-  statC: "260K",
-};
-  
+    statA: "2600+",
+    statB: "300+",
+    statC: "260K",
+  },
+  {
+    id: 2,
+    tag: "Impact modeling",
+    title:
+      "Industry leaders are those that are doing more than reduce their own emissions",
+    name: "Amanda Benneth",
+    designation: "Director of Sustainable Impact, Autodesk Foundation",
+    image: avatar,
+    imageAlt: "Amanda Benneth",
+    review: `“Industry leaders are those that are doing more than
+        reduce their own emissions, they are driving their
+        customers and sectors towards net-zero. Rho Impact
+        quantifies the impact of new climate technologies,
+        existing products and services, and of investments so that
+        investors and companies can make decisions that accelerate
+        the transition to a net-zero economy.”`,
+    statA: "2600+",
+    statB: "300+",
+    statC: "260K",
+  },
+  {
+    id: 3,
+    tag: "Impact modeling",
+    title:
+      "Industry leaders are those that are doing more than reduce their own emissions",
+    name: "Amanda Benneth",
+    designation: "Director of Sustainable Impact, Autodesk Foundation",
+    image: avatar,
+    imageAlt: "Amanda Benneth",
+    review: `“Industry leaders are those that are doing more than
+        reduce their own emissions, they are driving their
+        customers and sectors towards net-zero. Rho Impact
+        quantifies the impact of new climate technologies,
+        existing products and services, and of investments so that
+        investors and companies can make decisions that accelerate
+        the transition to a net-zero economy.”`,
+    statA: "2600+",
+    statB: "300+",
+    statC: "260K",
+  },
+  {
+    id: 4,
+    tag: "Impact modeling",
+    title:
+      "Industry leaders are those that are doing more than reduce their own emissions",
+    name: "Amanda Benneth",
+    designation: "Director of Sustainable Impact, Autodesk Foundation",
+    image: avatar,
+    imageAlt: "Amanda Benneth",
+    review: `“Industry leaders are those that are doing more than
+        reduce their own emissions, they are driving their
+        customers and sectors towards net-zero. Rho Impact
+        quantifies the impact of new climate technologies,
+        existing products and services, and of investments so that
+        investors and companies can make decisions that accelerate
+        the transition to a net-zero economy.”`,
+    statA: "2600+",
+    statB: "300+",
+    statC: "260K",
+  },
+  {
+    id: 5,
+    tag: "Impact modeling",
+    title:
+      "Industry leaders are those that are doing more than reduce their own emissions",
+    name: "Amanda Benneth",
+    designation: "Director of Sustainable Impact, Autodesk Foundation",
+    image: avatar,
+    imageAlt: "Amanda Benneth",
+    review: `“Industry leaders are those that are doing more than
+        reduce their own emissions, they are driving their
+        customers and sectors towards net-zero. Rho Impact
+        quantifies the impact of new climate technologies,
+        existing products and services, and of investments so that
+        investors and companies can make decisions that accelerate
+        the transition to a net-zero economy.”`,
+    statA: "2600+",
+    statB: "300+",
+    statC: "260K",
+  },
+  {
+    id: 6,
+    tag: "Impact modeling",
+    title:
+      "Industry leaders are those that are doing more than reduce their own emissions",
+    name: "Amanda Benneth",
+    designation: "Director of Sustainable Impact, Autodesk Foundation",
+    image: avatar,
+    imageAlt: "Amanda Benneth",
+    review: `“Industry leaders are those that are doing more than
+        reduce their own emissions, they are driving their
+        customers and sectors towards net-zero. Rho Impact
+        quantifies the impact of new climate technologies,
+        existing products and services, and of investments so that
+        investors and companies can make decisions that accelerate
+        the transition to a net-zero economy.”`,
+    statA: "2600+",
+    statB: "300+",
+    statC: "260K",
+  },
+];
 
 export const customerStories = [
   {

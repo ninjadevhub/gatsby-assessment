@@ -5,7 +5,7 @@ import Image2 from "../../images/icon2.svg";
 import Image3 from "../../images/icon3.svg";
 import Image4 from "../../images/icon4.png";
 import Image5 from "../../images/icon5.png";
-import Image6 from "../../images/icon6.svg";
+import Image6 from "../../images/icon6.png";
 import Image7 from "../../images/icon7.png";
 import Swiper, { Autoplay } from "swiper";
 Swiper.use([Autoplay]);

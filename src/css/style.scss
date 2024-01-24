@@ -100,19 +100,3 @@ $aos-distance: 10px;
   background-repeat: no-repeat;
 
 }
-
-
-// media queries for mobile max-width: 470px
-@media (max-width: 470px) {
- .customerStoriesSection{
-    /* the slides */
-    .slick-slide {
-      padding-right: 5px;
-  }
-
-  // /* the parent */
-  // .slick-list {
-  //     margin: 0 -20px;
-  // }
- }
-}

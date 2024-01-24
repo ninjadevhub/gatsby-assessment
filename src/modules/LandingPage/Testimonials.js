@@ -117,7 +117,7 @@ function Testimonials() {
         </div>
         {/* other components */}
       </div>
-      <div className="flex flex-col lg:flex-row md:justify-between justify-center md:py-6 px-8 md:px-8  text-white items-center ctaSection rounded-[34px] pb-[40px]">
+      <div className="flex flex-col lg:flex-row md:justify-between justify-center md:py-6 px-8 md:px-8  text-white items-center ctaSection  pb-[40px]">
         <div className="flex flex-col lg:flex-row md:justify-between justify-center ">
           <div className="mt-6 flex justify-center items-center md:mt-0 ">
             <img src={Layer} />

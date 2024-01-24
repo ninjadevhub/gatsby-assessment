@@ -15,44 +15,24 @@ const settings = {
 
   responsive: [
     {
-      breakpoint: 1160,
+      breakpoint: 1024,
 
       settings: {
         slidesToShow: 2.2,
       },
     },
     {
-      breakpoint: 860,
-
-      settings: {
-        slidesToShow: 2,
-      },
-    },
-    {
-      breakpoint: 770,
-
-      settings: {
-        slidesToShow: 1.6,
-      },
-    },
-    {
-      breakpoint: 670,
-
-      settings: {
-        slidesToShow: 1.3,
-      },
-    },
-    {
       breakpoint: 600,
-
+      centerMode: true,
+      dots: true,
       settings: {
-        slidesToShow: 1.1,
+        slidesToShow: 1,
+        dots: true,
       },
     },
     {
-      breakpoint: 500,
+      breakpoint: 480,
       centerMode: true,
-      centerPadding: "40px",
       dots: true,
       settings: {
         slidesToShow: 1,
@@ -83,21 +63,21 @@ function CustomerStories() {
 
   return (
     <section
-      className="bg-white -mt-[70px]  rounded-[40px] px-[16px] lg:px-[72px] md:rounded-[80px] customerStoriesSection"
+      className="bg-white -mt-[70px] rounded-[40px] md:rounded-[80px] customerStoriesSection"
       id="Customer-Stories"
     >
-      <section className="mx-auto font-body max-w-[1440px]">
+      <section className="mx-auto font-body pl:[50px] lg:pl-[72px] xl:pl-[170px] xxl:pl-[200px]">
         <div>
           <div className="flex mx-4 items-center justify-center pt-8 md:pt-[100px] md:justify-between">
-            <div className="text-center justify-center  md:flex items-center space-x-4">
-              <p className="text-2xl ml-0 leading-7 md:text-[50px]">
+            <div className=" text-center justify-center  md:flex items-center space-x-4">
+              <p className=" text-2xl leading-7 md:text-[50px]">
                 CustomerStories
               </p>
-              <p className="text-sm lg:text-[20px] mt-[10px] ml-0 text-textColor ">
+              <p className="text-sm lg:text-[20px] mt-[10px] text-textColor ">
                 Explore Rho Impact Experience
               </p>
             </div>
-            <div className="md:flex text-sm lg:text-[20px] gap-2 hidden ">
+            <div className="md:flex text-sm lg:text-[20px] gap-2 hidden lg:pr-[72px]">
               <div onClick={previous}>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -140,7 +120,7 @@ function CustomerStories() {
               </div>
             </div>
           </div>
-          <div className="mt-7 lg:mx-0 md:mt-[52px] ">
+          <div className="mt-7 mx-4 lg:mx-0 md:mt-[52px] ">
             <Slider
               ref={(slider) => setSlider(slider)}
               {...settings}
