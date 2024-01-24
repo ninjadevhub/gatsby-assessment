@@ -1,0 +1,267 @@
+[
+  {
+    "id": 32,
+    "blurb": "In short, the proposed changes would require that publicly traded companies disclose the climate impact of, and carbon emitted from, their business operations. Specifically, the SEC called for reporting of three types of emissions: Scope 1 emissions, which are produced from sources directly controlled by a company, such as fleet vehicles; Scope 2, which are associated with  purchased electricity and other energy; and Scope 3, which represent the emissions produced not directly by that company but that occur elsewhere in the supply chain as a result of the company’s actions.",
+    "author": "Seth Sheldon",
+    "link": "https://www.realclearenergy.org/articles/2023/05/26/why_businesses_cant_afford_emissions_omissions_901981.html",
+    "title": "Why Businesses Can’t Afford Emissions Omissions",
+    "date": "May 26, 2023"
+  },
+  {
+    "id": 31,
+    "blurb": "Autodesk FY23 impact report outlines our progress against our sustainability goals and key ESG indicators from climate to diversity and inclusion.",
+    "author": "AutoDesk",
+    "link": "https://damassets.autodesk.net/content/dam/autodesk/www/pdfs/fy23-autodesk-impact-report.pdf",
+    "title": "Autodesk FY23 Impact Report",
+    "date": "May 10, 2023"
+  },
+  {
+    "id": 30,
+    "link": "https://www.projectframe.how/preinvestment-ghg-assessment",
+    "title": "Diving Deeper into Assessing Future Greenhouse Gas Impact",
+    "blurb": "The future of climate investing lies in collaboration and transparency. That's why we're thrilled to be part of Project Frame's latest methodology guidance on assessing forward-looking emissions impact. Join us and 45+ leading climate investing firms in adopting these best practices to accelerate GHG mitigation with transparency and accountability. Dive into the new guidance and help us unlock the trillions in capital needed to address the climate crisis.",
+    "author": "Rho Impact",
+    "date": "April 26, 2023"
+  },
+  {
+    "id": 29,
+    "link": "https://vermontbiz.com/news/2023/may/11/launchvt-and-rho-impact-deliver-world-class-esg-training-startups%C2%A0",
+    "title": "Rho Impact partners with Launch VT",
+    "blurb": "Rho Impact is excited to partner with LaunchVT, Vermont's flagship accelerator, to help Vermont's next class of entrepreneurs scale their businesses, grow their impact, and ultimately win in 'the age of ESG.' Rho Impact and LaunchVT will provide a two-part learning module to inform startups in LaunchVT's flagship accelerator program on how to integrate ESG strategies and reporting methodologies in to their businesses.  The partnership was made possible by a grant from BTV Ignite, a local non-profit organization that helps launch entrepreneurs and grow businesses. LaunchVT's members will benefit from direct instruction from Noah Miller, co-Founder of Rho Impact and Chief Advisory Officer, and receive toolkits and frameworks they can integrate into their business models. The combined Rho Impact and LaunchVT initiative kicks off on April 26th with an in-person learning session led by Miller at the Lake Champlain Chamber, with the module concluding on May 3rd.  LaunchVT is meeting the growing trend of ESG as a key element of Vermont's most innovative companies by accelerating high-growth startups and providing the tools they need to succeed. To learn more visit: https://www.launchvt.com/",
+    "author": "Rho Impact",
+    "date": "April 21, 2023"
+  },
+  {
+    "id": 28,
+    "link": "https://blog.brinc.io/brinc-x-rho-impact-join-forces-to-help-startups-quantify-the-emissions-reduction-potential-of-their-f5b180c394e8",
+    "title": "Brinc x Rho Impact Join Forces to Help Startups Quantify the Emissions Reduction Potential of their Technologies",
+    "blurb": "We're thrilled to announce our partnership with Brinc, a Hong-Kong based accelerator with programs across seven countries. We will be leading impact measurement workshops for Brinc's climate tech and food tech accelerator programs, including teaching expert usage of the CRANE Tool (Carbon Reduction Assessment for New Enterprises). Partnered with global corporations (like Manulife, Huawei, Schneider Electric, PUMA Group, Merck) and civic institutions (like NEOM and National University of Singapore), we look forward to supporting Brinc's mission to empower global game changers.",
+    "author": "Brinc",
+    "date": "March 20, 2023"
+  },
+  {
+    "id": 27,
+    "link": "https://corporatefinanceinstitute.com/resources/esg/emission-factors/",
+    "title": "Emission Factors",
+    "blurb": "Multipliers used in GHG accounting when calculating the carbon emissions profile of a given activity or process",
+    "author": "Noah Miller",
+    "date": "March 3, 2023"
+  },
+  {
+    "id": 26,
+    "link": "https://corporatefinanceinstitute.com/resources/esg/esg-in-2023/",
+    "title": "ESG & the Regulatory Environment",
+    "blurb": "A rising focus on corporate Environmental, Social, and Governance (ESG) performance is rapidly changing the regulatory environment and associated stakeholder expectations for businesses around the world. Investors, analysts, directors, and management teams alike are seeing the need to apply an ESG lens to virtually every decision-making process — from where to deploy capital and who to partner with to which new markets to enter. ",
+    "author": "Noah Miller",
+    "date": "February 22, 2023"
+  },
+  {
+    "id": 25,
+    "link": "https://corporatefinanceinstitute.com/resources/esg/impact-investing/",
+    "title": "Impact Investing",
+    "blurb": "Investments aimed at producing a positive social or environmental benefit in addition to returns on investment",
+    "author": "Noah Miller",
+    "date": "February 19, 2023"
+  },
+  {
+    "id": 24,
+    "link": "https://corporatefinanceinstitute.com/resources/esg/carbon-markets/",
+    "title": "Carbon Markets",
+    "blurb": "Transactional marketplaces where organizations and investors can buy and sell carbon credits and offsets",
+    "author": "Kyle Peterdy",
+    "date": "February 19, 2023"
+  },
+
+  {
+    "id": 23,
+    "blurb": "What does it take to assess the emissions reduction potential of emerging climate solutions? Director of Project Frame, Keri Browder, and Rho Impact’s Chief Scientific Officer, Seth Sheldon, shared an introduction to emissions reduction potential analysis in the first webinar of Tideline's Currents initiative.",
+    "author": "Project FRAME",
+    "link": "https://projectframe.how/publications/tideline-current-january-2023",
+    "title": "Highlights: Introduction to ERP Analysis with Tideline Currents",
+    "date": "February 08, 2023"
+  },
+  {
+    "id": 22,
+    "blurb": "A rising focus on corporate Environmental, Social, and Governance (ESG) performance is rapidly changing the regulatory environment and associated stakeholder expectations for businesses around the world. Investors, analysts, directors, and management teams alike are seeing the need to apply an ESG lens to virtually every decision-making process",
+    "author": "Katia Carrady",
+    "link": "https://corporatefinanceinstitute.com/resources/esg/esg-in-2023/",
+    "title": "ESG and the Regulatory Environment: 3 Things Financial Analysts Need to Know for 2023 and Beyond",
+    "date": "November 23, 2022"
+  },
+  {
+    "id": 21,
+    "blurb": "Noah Miller (pictured right), Founder, Chief Strategist, and Head of ESG Advisory Services at Rho Impact, is a former ESG consulting practice leader, in-house ESG director, social entrepreneur, and non-profit advisor. He is passionate about leveraging the power of business to address real-world challenges and improve the welfare of all people.",
+    "author": "Scott Powell",
+    "link": "https://corporatefinanceinstitute.com/resources/esg/esg-analyst-approach/",
+    "title": "An Analyst’s Approach to ESG: Feature Interview with Rho Impact’s Noah Miller",
+    "date": "November 14, 2022"
+  },
+  {
+    "id": 20,
+    "blurb": "Cloud-based AI/ML tool will power rapid iteration on racing and production technology",
+    "author": "General Motors",
+    "link": "https://pressroom.gm.com/gmbx/us/en/pressroom/home/corporate.detail.html/Pages/news/us/en/2022/sep/0915-motorsports.html",
+    "title": "GM Acquires Real-time Motorsports Strategy Software Pit Rho",
+    "date": "September 15, 2022"
+  },
+  {
+    "id": 19,
+    "blurb": "Noah’s eclectic professional background, academic credentials, and life experiences make him a highly sought-after consultant and speaker in the ESG space. We recently had the pleasure of sitting down with Noah to learn more about ESG and the role of the financial analyst in today’s market.",
+    "author": "Scott Powell - CFI",
+    "link": "https://corporatefinanceinstitute.com/resources/knowledge/other/esg-analyst-approach/",
+    "title": "An Analyst’s Approach to ESG: Feature Interview with Rho Impact’s Noah Miller",
+    "date": "September 12, 2022"
+  },
+  {
+    "id": 18,
+    "blurb": "Autodesk FY22 impact report outlines our progress against our sustainability goals and key ESG indicators from climate to diversity and inclusion.",
+    "author": "AutoDesk",
+    "link": "https://www.autodesk.com/sustainability/impact-report",
+    "title": "Autodesk FY22 Impact Report",
+    "date": "September 08, 2022"
+  },
+  {
+    "id": 17,
+    "blurb": "Corporate governance is a system that guides the conduct of the people within an organization, as well as the direction of the organization itself. Corporate governance is altogether different from the daily operational decisions and activities that are executed by the management of an organization. Corporate governance is the domain of the Board of Directors, as opposed to its management team (such as the CEO and other C-suite executives).",
+    "author": "Kyle Peterdy - CFI",
+    "link": "https://corporatefinanceinstitute.com/resources/knowledge/other/corporate-governance/",
+    "title": "Corporate Governance: A system of direction and control within an organization",
+    "date": "August 16, 2022"
+  },
+  {
+    "id": 16,
+    "blurb": "Eclipse Ventures, a venture capital firm that helps founders build companies to make physical industries more efficient, resilient, and profitable, today announced the release of the Eclipse Carbon Optimization (ECO) framework. The new tool assesses the environmental and economic value potentials for emerging industrial technologies.",
+    "author": "Eclipse Ventures",
+    "link": "https://www.prnewswire.com/news-releases/eclipse-ventures-launches-framework-to-quantify-climate-impact-potential-for-technologies-disrupting-physical-industries-301603231.html",
+    "title": "Eclipse Ventures Launches Framework to Quantify Climate Impact Potential for Technologies Disrupting Physical Industries",
+    "date": "August 10, 2022"
+  },
+  {
+    "id": 15,
+    "blurb": "In March, the SEC proposed rules that would mandate enhanced climate-related disclosures by public companies. These rules arguably would be the most significant new public company disclosure and compliance requirements in a generation. By the time the comment period closed on June 17, the SEC had received approximately 14,000 comment letters. In this analysis, we provide statistics on the comment letters and note some of the many significant comment letters submitted.",
+    "author": "Ropes & Gray",
+    "link": "https://www.ropesgray.com/en/newsroom/alerts/2022/August/The-SECs-Proposed-Climate-Disclosure-Rules-Comment-Letter-Stats",
+    "title": "The SEC’s Proposed Climate Disclosure Rules – Comment Letter Stats",
+    "date": "August 02, 2022"
+  },
+  {
+    "id": 14,
+    "blurb": "Investment vehicles constructed using an asset allocation strategy that focuses on environmental, social, and governance factors",
+    "author": "CFI Team",
+    "link": "https://corporatefinanceinstitute.com/resources/knowledge/other/esg-fund/",
+    "title": "ESG Fund",
+    "date": "June 14, 2022"
+  },
+  {
+    "id": 13,
+    "blurb": "Publicly traded companies have been slow to adopt net-zero emissions goals, but corporate peer pressure combined with regulatory changes is beginning to turn the tide. Only 37% of about 5,300 companies reviewed in the 2021 S&P Global Corporate Sustainability Assessment had announced plans to reduce Scope 1 or Scope 2 emissions.",
+    "author": "Taylor Kuykendall - S&P Global",
+    "link": "https://www.spglobal.com/marketintelligence/en/news-insights/latest-news-headlines/path-to-net-zero-as-regulators-step-in-push-for-climate-disclosure-intensifies-70485484",
+    "title": "Path to net-zero: As regulators step in, push for climate disclosure intensifies",
+    "date": "June 06, 2022"
+  },
+  {
+    "id": 12,
+    "blurb": "An objective evaluation of a company, a fund, or a security’s performance measured against Environmental, Social, and Governance (ESG) criteria",
+    "author": "CFI Team",
+    "link": "https://corporatefinanceinstitute.com/resources/knowledge/other/esg-score/",
+    "title": "ESG Score",
+    "date": "June 02, 2022"
+  },
+  {
+    "id": 11,
+    "blurb": "Michael Young and Noah Miller join the Purpose, Inc. podcast for a conversation about changing expectations and heightened tension between corporations and stakeholders around ESG and sustainability.",
+    "author": "Purpose, Inc. podcast",
+    "link": "https://www.purposedriveninc.com/blog/talking-numbers-and-narrative-with-michael-young-and-noah-miller",
+    "title": "Talking Numbers and Narrative with Michael Young and Noah Miller",
+    "date": "March 29, 2022"
+  },
+  {
+    "id": 10,
+    "blurb": "In this episode of The Understory Podcast, we dig into the planning, tracking, and reporting process for your organization’s ESG strategy and why it's important to take action now.",
+    "author": "Understory Team",
+    "link": "https://www.theunderstory.io/jason-nachamie-of-rho-impact-the-art-and-science-of-esg-impact-tracking/",
+    "title": "Jason Nachamie of Rho Impact: the art and science of ESG impact tracking",
+    "date": "February 23, 2022"
+  },
+  {
+    "id": 9,
+    "blurb": "Jason Nachamie and Colin Healey, from the Sustainable MBA program at the University of Vermont Grossman School of Business discuss how the B-Corp movement is a crucial component to addressing the climate crisis.",
+    "author": "The Solar Spill Podcast",
+    "link": "https://thesolarspill.podbean.com/e/s3e18-the-purpose-driven-business/",
+    "title": "The Purpose-Driven Business",
+    "date": "November 5, 2021"
+  },
+  {
+    "id": 8,
+    "blurb": "iSun Builds Upon Historic Foundation of Environmentally and Socially Responsible Business in Collaboration with ESG Advisory and Software Firm Rho Impact",
+    "author": "Business Wire",
+    "link": "https://www.morningstar.com/news/business-wire/20220113005604/isun-publishes-2021-esg-update-launches-2022-esg-strategy",
+    "title": "iSun Publishes 2021 ESG Update & Launches 2022 ESG Strategy",
+    "date": "January, 2022"
+  },
+  {
+    "id": 7,
+    "blurb": "Investors have historically prized financial returns over positive real-world impact, but that imbalance is starting to change.",
+    "author": "Bryony Collins",
+    "link": "https://www.bnef.com/insights/25875",
+    "title": "CO2 Projection Software Helps Investors Locate Best Impact",
+    "date": "September, 2021"
+  },
+  {
+    "id": 6,
+    "blurb": "Estimating the potential for GHG emission reductions for early-stage companies like those in CRI’s portfolio is challenging. The recently developed CRANE tool  offers an open-source methodology to assess the emissions reduction potential of climate technologies like those of CRI’s startups.",
+    "author": "Chain Reaction Innovations",
+    "link": "https://chainreaction.anl.gov/program/greenhouse-gas-reduction/",
+    "title": "CRI Startups Potentially Reduce GHG",
+    "date": "September 21, 2021"
+  },
+  {
+    "id": 5,
+    "blurb": "This report captures data and insights from interactions with users since CRANE’s release in April 2020, with targeted solicitation of feedback in the form of user interviews and surveys conducted from April to June 2021. For the user interviews and surveys, the CRANE team reached out directly to respondents who had previously registered an account through CRANE.",
+    "author": "Cassie Borish, Amber Gold, Seth Sheldon",
+    "link": "https://bit.ly/3eMYsGP",
+    "title": "CRANE User Report 2021",
+    "date": "July 21, 2021"
+  },
+  {
+    "id": 4,
+    "blurb": "Today, Mission from MaRS: Climate Impact Challenge announced its first cohort of Climate Champions: 10 Canadian ventures working in the carbon-intensive industries of energy, real estate and transportation.",
+    "author": "Barry Chong",
+    "link": "https://www.missionfrommars.ca/news/climate-champions/",
+    "title": "Announcing the 10 Mission from MaRS Climate Champions",
+    "date": "May 27, 2021"
+  },
+  {
+    "id": 3,
+    "blurb": "ESG assets are on a path to exceed $53 trillion globally by 2025, which would represent more than a third of the expected $141 trillion of global assets under management.",
+    "author": "Neil Yeoh",
+    "link": "https://www.weforum.org/agenda/2021/05/investing-to-curb-climate-change-rising-what-you-need-to-know/",
+    "title": "Investments to curb climate change are rising. Here’s what you need to know",
+    "date": "May 21, 2021"
+  },
+  {
+    "id": 2,
+    "blurb": "VCs love data. They use it to decide who to invest in, which companies to pass on and which markets to focus on. Their vocabulary is made up of the KPIs they appreciate most, from EBIT and CAC, to LTV and TAM (that’s earnings before interest and tax, customer acquisition cost, lifetime value and total addressable market, to everyone else).",
+    "author": "Danijel Visevic",
+    "link": "https://sifted.eu/articles/sustainability-metrics-vc/",
+    "title": "Making Climate Impact Modeling Easier And Data-Driven",
+    "date": "February 18, 2021"
+  },
+  {
+    "id": 1,
+    "blurb": "ImpactAlpha, May 27 – CRANE, for “Carbon Reduction Assessment of New Enterprises,” can assess the potential future climate impact of more than 200 technology solution areas",
+    "author": "Dennis Price",
+    "link": "https://impactalpha.com/better-climate-impact-due-diligence-theres-an-app-for-that/",
+    "title": "Better climate-impact due diligence: There’s an app for that",
+    "date": "May 27, 2020"
+  },
+  {
+    "id": 0,
+    "blurb": "New public-private partnership to make assessing the climate impact of emerging technologies easier and more data-driven",
+    "author": "Prime Coalition",
+    "link": "https://www.globenewswire.com/news-release/2019/06/12/1867516/0/en/CRANE-Software-Project-Launches-to-Address-Gap-in-Climate-Impact-Assessment-Solutions-for-Early-Stage-Investors.html",
+    "title": "CRANE Software Project Launches to Address Gap in Climate Impact Assessment Solutions for Early-Stage Investors",
+    "date": "June 12, 2019"
+  }
+]

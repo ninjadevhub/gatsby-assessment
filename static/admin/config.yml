@@ -1,0 +1,123 @@
+backend:
+  name: git-gateway
+  branch: main # Branch to update (optional; defaults to master)
+  commit_messages:
+    create: 'Create {{collection}} “{{slug}}”'
+    update: 'Update {{collection}} “{{slug}}”'
+    delete: 'Delete {{collection}} “{{slug}}”'
+    uploadMedia: '[skip ci] Upload “{{path}}”'
+    deleteMedia: '[skip ci] Delete “{{path}}”'
+
+publish_mode: editorial_workflow
+media_folder: /static/blog-assets
+public_folder: /blog-assets
+
+collections:
+  - name: 'esg-blog' # Used in routes, e.g., /admin/collections/blog
+    label: 'ESG Blog' # Used in the UI
+    folder: '/static/esg-blog' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Blog URL', name: 'slug', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - {
+          label: 'LinkedIn URL',
+          name: 'authorLinks',
+          widget: 'list',
+          default: ['https://www.linkedin.com/company/rho-impact'],
+        }
+      - { label: 'Blurb', name: 'blurb', widget: 'string' }
+      - {
+          label: 'Authors',
+          name: 'authors',
+          widget: 'list',
+          default: ['Rho Impact'],
+        }
+      - { label: 'Featured Image', name: 'banner', widget: 'image' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'news' # Used in routes, e.g., /admin/collections/blog
+    label: 'Rho Impact News' # Used in the UI
+    folder: '/static/news' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Article URL', name: 'link' }
+      - { label: 'Blurb', name: 'blurb', widget: 'string' }
+      - { label: 'Author', name: 'author', widget: 'string' }
+
+  - name: 'jobs' # Used in routes, e.g., /admin/collections/blog
+    label: 'Rho Impact Jobs' # Used in the UI
+    folder: '/static/jobs' # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Article URL', name: 'slug', widget: 'string' }
+      - {
+          label: 'Skills',
+          name: 'skills',
+          widget: 'list',
+          default: ['esg'],
+          required: false,
+        }
+      - {
+          label: 'Details',
+          name: 'details',
+          widget: 'list',
+          default:
+            [
+              'Location: Remote (United States)',
+              'Hours: 40 hours per week',
+              'Start date: ',
+            ],
+        }
+      - {
+          label: 'About',
+          name: 'aboutYou',
+          widget: 'list',
+          default:
+            [
+              'You are a builder- You are an involved leader.  You understand the importance of interconnected technology applications and services and apply your high standard into creating modern, intentional solutions.',
+            ],
+        }
+      - {
+          label: 'Responsibilites',
+          name: 'responsibilities',
+          widget: 'list',
+          default:
+            [
+              'Develop products and services for advanced machine learning applications in impactful and interesting problem spaces.',
+            ],
+        }
+      - {
+          label: 'Requirements',
+          name: 'requirements',
+          widget: 'list',
+          default: ['Strong understanding of Object Oriented Programming'],
+        }
+      - {
+          label: 'Benefits',
+          name: 'benefits',
+          widget: 'list',
+          default:
+            [
+              'Ground floor opportunity to be an early member of a growing startup',
+              'Career advancement opportunities',
+              'Personal Development support',
+              'Fully remote work',
+              'Flexible Work Hours',
+              'Medical, dental, FSA, HSA and 401K benefits',
+              'Generous paid time off (vacation, sick days, holidays, personal days, parental leave)',
+              'Paid family leave (parental leave, baby bonding leave, caregiver leave)',
+            ],
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

@@ -1,0 +1,118 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800;900&display=fallback");
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lexend&family=Roboto:wght@100&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Additional styles
+@import "additional-styles/utility-patterns.scss";
+@import "additional-styles/range-slider.scss";
+@import "additional-styles/toggle-switch.scss";
+@import "additional-styles/theme.scss";
+@import "additional-styles/custom.scss";
+@import "slick-carousel/slick/slick.css";
+@import "slick-carousel/slick/slick-theme.css";
+
+
+
+// Additional Tailwind directives: https://tailwindcss.com/docs/functions-and-directives/#responsive
+@layer utilities {
+  .rtl {
+    direction: rtl;
+  }
+}
+
+// See Alpine.js: https://github.com/alpinejs/alpine#x-cloak
+[x-cloak] {
+  display: none;
+}
+
+// AOS styles
+$aos-distance: 10px;
+@import "node_modules/aos/src/sass/aos.scss";
+
+.name-input:not(:placeholder-shown)+label,
+.name-input:focus+label {
+  transform: translateY(-25px);
+  font-size: 12px;
+  color: #B1B8CA;
+  /* Change the color to your desired label color */
+}
+
+
+.testimonialSectionCustom {
+  box-shadow: 0px 4px 50px 0px #ECEFF0;
+
+  .ctaSection {
+    background-image: url(../images/color.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+}
+
+
+.floatingInput {
+  .label {
+    position: absolute;
+    top: 50px;
+    left: 2px;
+    transition: transform 0.3s ease-in-out, font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+    pointer-events: none;
+  }
+
+  .label.active {
+    transform: translateY(-25px);
+    font-size: 12px;
+    color: #B1B8CA;
+    /* Change the color to your desired label color */
+  }
+
+  .message-input:not(:placeholder-shown)+label,
+  .message-input:focus+label {
+    transform: translateY(-25px);
+    font-size: 12px;
+    color: #B1B8CA;
+    /* Change the color to your desired label color */
+  }
+
+  .massagelabel {
+    position: absolute;
+    top: 50px;
+    left: 15px;
+    transition: transform 0.3s ease-in-out, font-size 0.3s ease-in-out, color 0.3s ease-in-out;
+    pointer-events: none;
+  }
+
+  .massagelabel.active {
+    transform: translateY(-25px);
+    font-size: 12px;
+    color: #B1B8CA;
+    /* Change the color to your desired label color */
+  }
+}
+
+.footerSection {
+  background-image: url('../images/footer.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+
+// media queries for mobile max-width: 470px
+@media (max-width: 470px) {
+ .customerStoriesSection{
+    /* the slides */
+    .slick-slide {
+      padding-right: 5px;
+  }
+
+  // /* the parent */
+  // .slick-list {
+  //     margin: 0 -20px;
+  // }
+ }
+}

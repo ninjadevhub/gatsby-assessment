@@ -1,0 +1,37 @@
+// Switch element
+.product-card-wrapper {
+  padding-top: 0 !important;
+}
+
+.scrollText {
+  display: block;
+  width: 407px;
+
+  @media only screen and (max-width: 390px) {
+    margin-left: -20px;
+    &.longText {
+      margin-left: -20px;
+    }
+  }
+
+  @media only screen and (max-width: 320px) {
+    margin-left: -60px;
+    &.longText {
+      margin-left: -60px;
+    }
+  }
+
+  @media only screen and (max-width: 280px) {
+    margin-left: -75px;
+    &.longText {
+      margin-left: -75px;
+    }
+  }
+
+  @media only screen and (min-width: 767px) {
+    margin-left: 15px;
+    &.longText {
+      margin-left: 15px;
+    }
+  }
+}

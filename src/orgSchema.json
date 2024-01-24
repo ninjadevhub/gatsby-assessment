@@ -1,0 +1,8 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Rho Impact",
+  "description": "Powering the world's most reliable impact forecasts.",
+  "url": "https://rhoimpact.com",
+  "logo": "https://rhoimpact.com/static/logo_horizontal-411756b4050f57f00a72c04d21731f91.png"
+}
