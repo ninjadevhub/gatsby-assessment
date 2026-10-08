@@ -32,8 +32,8 @@
     "yup": "^1.3.3"
   },
   "scripts": {
-    "dev": "gatsby develop -p 3333 -o",
-    "build": "gatsby build"
+    "dev": "node api.js && gatsby develop -p 3333 -o",
+    "build": "node api.js && gatsby build"
   },
   "eslintConfig": {
     "extends": "react-app"
